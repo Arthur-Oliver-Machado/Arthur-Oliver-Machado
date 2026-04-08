@@ -8,7 +8,7 @@
 
 <div  align="left">  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arthur-Oliver-Machado&theme=dark"/>
-
+</div>  
 
 <div align="left">
   <h2> 𝔗𝔢𝔠𝔥 𝔖𝔨𝔦𝔩𝔩𝔰 <h2>
@@ -22,6 +22,10 @@
 </div>
 
 ###
+
+<div align="center">
+  <img align="center" src="https://i.pinimg.com/originals/b5/27/be/b527be9d56652e603cfca97ef91b50db.gif" />
+</div>  
 
 <br clear="both">
 
