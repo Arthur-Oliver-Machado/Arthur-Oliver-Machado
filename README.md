@@ -1,4 +1,4 @@
-<h2 align="left">🌕 𝔄𝔯𝔱𝔥𝔲𝔯 𝔒𝔩𝔦𝔳𝔢𝔯 𝔐𝔞𝔠𝔥𝔞𝔡𝔬<br> 🩸 𝕿𝖍𝖊 𝕬𝖕𝖊𝖝 𝕻𝖗𝖊𝖉𝖆𝖙𝖔𝖗 𝖔𝖋 𝕱𝖗𝖔𝖓𝖙-𝕰𝖓𝖉</h2>
+<h2 align="left">Arthur Oliver Machado<br> Desenvolvedor Front End</h2>
 
 ###
 
