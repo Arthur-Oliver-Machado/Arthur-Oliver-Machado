@@ -2,7 +2,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/f0/7a/88/f07a88d94f852c5da7510574334e1f5a.gif"  />
 
 ###
 
